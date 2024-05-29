@@ -1,6 +1,8 @@
 
 ![Sample Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRztL0WzSHxYdzc8FmFZ8pCYA8GxsAThVhioAoQIrfPmnM2527iMnLvRXyd_5VO1xYdRg&usqp=CAU)
 
+![Sample Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freeiconspng.com%2Fimages%2Fwalmart-logo-png&psig=AOvVaw0ER6Q8aI-ya5zlSUP7EhU-&ust=1717079205924000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJidodOIs4YDFQAAAAAdAAAAABAE)
+
 
 # Walmart-Sales-Data-Analysis--SQL-Project
 ## About
